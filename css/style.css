@@ -1,0 +1,13 @@
+body {
+    /*background-image: url('../img/raindrops-window.jpeg');*/
+    /*background-size: cover;*/
+}
+
+#zoom-group {
+    width: 10%;
+    margin: 1em;
+}
+
+#select-zoom:after {
+    content: string(Zoom);
+}
